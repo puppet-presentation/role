@@ -1,3 +1,3 @@
 class webserver{
- include profile::nginx_webserver
+ include profile::nginxwebserver
 }
