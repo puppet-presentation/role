@@ -1,3 +1,3 @@
-class roles::webserver{
+class role::webserver{
  include profile::nginxwebserver
 }
